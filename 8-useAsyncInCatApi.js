@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 const apiURL = 'https://api.thecatapi.com/v1/';
-const apiKey = 'live_mlwlAcCx0PTGiSk6C7Dqmuyb4J1qht5b8qWc7Ve58YEbP5DUGGYIF8wSdacKRgaQ'
+const apiKey = //https://www.thedogapi.com/ Solicita tu APIKEY
 
 async function getRandomCatimage(){
     try{
